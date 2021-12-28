@@ -1,0 +1,22 @@
+body {
+    margin:0px;
+    overflow:hidden;
+    background-color:rgb(0, 85, 134);
+    font-family: 'Roboto', sans-serif;
+}
+
+#tools {
+    margin:10px;
+    padding:10px;
+    background-color:rgb(122, 171, 235);
+}
+
+canvas {
+    border-top:5px solid black;
+}
+
+#tools * {
+    text-align:center;
+    margin:auto;
+    display:inline-block;
+}
